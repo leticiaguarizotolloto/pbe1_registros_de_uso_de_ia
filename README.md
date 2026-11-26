@@ -8,8 +8,6 @@ Este projeto consiste no desenvolvimento de um backend para o gerenciamento de r
 
 O diagrama de classes do projeto está disponível na pasta `docs`, com o nome `der_uso_ia.png`.
 
-![Diagrama de Classes](docs/der_uso_ia.png)
-
 ## Tecnologias Utilizadas
 
 - Node.js
@@ -87,4 +85,3 @@ npm install
 npm run dev
 ```
 
-6. O
