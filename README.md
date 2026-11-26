@@ -6,7 +6,7 @@ Este projeto consiste no desenvolvimento de um backend para o gerenciamento de r
 
 ## Diagrama de Classes
 
-O diagrama de classes do projeto está disponível na pasta `docs`, com o nome `der_uso_ia.png`.
+O diagrama de classes do projeto está disponível na pasta `docs`, com o nome `diagramadeclasses.png`.
 
 ## Tecnologias Utilizadas
 
